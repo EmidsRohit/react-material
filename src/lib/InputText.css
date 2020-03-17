@@ -1,0 +1,9 @@
+.input-icon .MuiIconButton-root,
+.input-icon .MuiIconButton-root:hover {
+  background: #8080801c;
+  padding: 8px 7px;
+  border: none;
+  margin-right: -13px;
+  border-radius: 0;
+  border-left: 1px solid #80808036;
+}

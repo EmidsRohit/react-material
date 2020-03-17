@@ -6,10 +6,16 @@
     box-shadow: 2px -1px 2px -2px rgba(0, 0, 0, 0.14);
   }
 }
-.active {
-  border-left: 2px solid blue !important;
-  color: blue !important;
+.multi-input {
+  border-left: 2px solid #ff3b00 !important;
 }
 .right-panel {
   padding: 10px;
+}
+.active {
+  color: #05a4ef !important;
+  border-left: 2px solid #05a4ef !important;
+}
+.active .MuiSvgIcon-root {
+  fill: #05a4ef !important;
 }
